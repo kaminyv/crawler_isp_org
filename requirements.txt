@@ -1,0 +1,2 @@
+cymruwhois==1.6
+pkg_resources==0.0.0
